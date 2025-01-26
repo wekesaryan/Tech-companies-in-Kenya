@@ -2,7 +2,7 @@
 This is an  up-to-date list of recommended Kenyan Technology related companies
 
 # Disclaimer 
-Welcome to this repository!.All of this repository content are based on our own personal resources and hereby provided as it is.ANYONE IS FREE TO RAISE CONCERNS IF THE REPO SEEMS BIASED. Here, you'll find a comprehensive list of technology companies based in Kenya. Kenya, often referred to as the "Silicon Savannah," is home to a vibrant tech ecosystem with numerous innovative companies driving growth and development in various sectors such as fintech, e-commerce, software development, and digital marketing.
+<p>All of this repository content are based on our own personal resources and hereby provided as it is.<span style="color: red;">red</span>ANYONE IS FREE TO RAISE CONCERNS IF THE REPO SEEMS BIASED.</p> Here, you'll find a comprehensive list of technology companies based in Kenya. Kenya, often referred to as the "Silicon Savannah," is home to a vibrant tech ecosystem with numerous innovative companies driving growth and development in various sectors such as fintech, e-commerce, software development, and digital marketing.
 
 This repository aims to provide a valuable resource for anyone interested in exploring the tech landscape in Kenya, whether for research, business opportunities, or networking. We hope you find this list helpful and informative!
 
