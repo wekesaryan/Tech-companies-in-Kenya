@@ -57,7 +57,7 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
  - [Frepers PTaaS Cyber security](https://frepers.co.ke/)
  - [East Africa Data Handlers](https://eadatahandlers.co.ke/)
  - [AfricaHackOn](https://africahackon.com/)
- - [wHtanetworks](https://whtanetworks.com/)
+ - [wHTa Networks](https://whtanetworks.com/)
  - [Crystal Tech](https://crystaltech.co.ke/)
 
 
@@ -112,8 +112,7 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
  - [Standard Media group](https://www.standardmedia.co.ke/)
  - [Nation Media Group PLC](https://www.nationmedia.com/)
  - [Royal Media](https://royalmedia.co.ke/)
- - 
-
+   
 
 
 ### Tech Hubs
@@ -128,7 +127,6 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
  - [LakeHub](https://www.lakehub.co.ke/)
  - [KICTANET](https://www.kictanet.or.ke/)
     
-
 
 
 ### Government Initiatives Projects
