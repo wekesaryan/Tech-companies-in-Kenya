@@ -32,6 +32,8 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
 
 - [Tech2Give](https://teach2give.com/#)
 - [Power Learn Project](https://powerlearnprojectafrica.org/)
+- [Google Developer Groups Nairobi](https://gdg.community.dev/gdg-nairobi/)
+- [Microsoft Kenya](https://www.microsoft.com/en-us/contact_en-ke.aspx)
 - [Fluid Tech Global](https://fluidtechglobal.com/)
 - [Graph Tech Mobile Applications Devs](https://graph.co.ke/)
 - [Techvannah](https://techvannah.com/)
@@ -47,6 +49,7 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
 - [iDevelopers tech](https://idevelopertechnologies.co.ke/)
 - [Synacor](https://www.synacor.co.ke/)
 - [Chelosoft](https://chalosoftsystems.co.ke/)
+- [Mentorlst](https://mentorlst.com/dashboard)
 
 
 
@@ -69,10 +72,19 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
 
 ### Cloud Computing
 
-- [Safaricom PLC](https://safaricom.com)
-- [Telcom Kenya](https://telkom.co.ke/)
 - [Cloud Backup](https://cloudbackup.co.ke/)
+- [ManageIT Africa](https://manageitafrica.com/)
 
+
+### Internet Service Providers (ISP)
+
+- [Safaricom Bussiness](https://www.safaricom.co.ke/)
+- [Telcom Kenya](https://telkom.co.ke/)
+- [Jammi Telecommunication](https://jtl.co.ke/)
+- [ZUKU Internet](https://zuku.co.ke/triple-play/)
+- [Poa! Internet](https://poa.co.ke/)
+- [Surfnet Solutions](https://surfnetsolution.com/)
+- [VHost Limited](https://vhost.bz/)
 
 
 ### E-commerce
@@ -85,11 +97,6 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
 
  - [Moringa School](https://moringaschool.com/)
  - [ALX Africa](https://www.alxafrica.com/programmes/)
-
-### Internship and Mentorship programs
-
- - [Google Developer Groups Nairobi](https://gdg.community.dev/gdg-nairobi/)
- - [Mentorlst](https://mentorlst.com/dashboard)
 
 
 ### Graphic Design
