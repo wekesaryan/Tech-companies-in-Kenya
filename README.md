@@ -34,6 +34,7 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
 - [Google Developer Groups Nairobi](https://gdg.community.dev/gdg-nairobi/)
 - [Microsoft Kenya](https://www.microsoft.com/en-us/contact_en-ke.aspx)
 - [Fluid Tech Global](https://fluidtechglobal.com/)
+- [Kenyawebsite](https://kenyawebsite.com/)
 - [Graph Tech Mobile Applications Devs](https://graph.co.ke/)
 - [Techvannah](https://techvannah.com/)
 - [AfricaCodeWeek](https://africacodeweek.org/)
