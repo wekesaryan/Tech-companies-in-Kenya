@@ -50,6 +50,8 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
 - [Synacor](https://www.synacor.co.ke/)
 - [Chelosoft](https://chalosoftsystems.co.ke/)
 - [Mentorlst](https://mentorlst.com/dashboard)
+- [ANdela Nairobi](https://www.andela.com/)
+- [The Jitu Nyeri](https://thejitu.com/)
 
 
 
