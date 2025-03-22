@@ -1,4 +1,4 @@
-# List-of-Best-Tech-Companies-in-Kenya
+# List-of-Tech-Companies-in-Kenya
 This repository aims to provide a valuable resource for anyone interested in exploring the tech landscape in Kenya, whether for research, internship, business opportunities, or networking. We hope you find this list helpful and informative!
 
 # Disclaimer 
@@ -23,39 +23,39 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 ## Contributors
 
-We welcome contributions from everyone! Check out the [Contributors](https://github.com/wekesaryan/List-of-Best-Tech-Companies-in-Kenya/graphs/contributors) to see who has helped build this repository.
+We welcome contributions from everyone! Check out the [Contributors](https://github.com/wekesaryan/List-Of-Tech-Companies-in-Kenya/graphs/contributors) to see who has helped build this repository.
 
 
 
-### Software development
+### Software Development
 
-- [Tech2Give](https://teach2give.com/#)
-- [Power Learn Project](https://powerlearnprojectafrica.org/)
-- [Google Developer Groups Nairobi](https://gdg.community.dev/gdg-nairobi/)
-- [Microsoft Kenya](https://www.microsoft.com/en-us/contact_en-ke.aspx)
-- [Fluid Tech Global](https://fluidtechglobal.com/)
-- [Kenyawebsite](https://kenyawebsite.com/)
-- [Graph Tech Mobile Applications Devs](https://graph.co.ke/)
-- [Techvannah](https://techvannah.com/)
 - [AfricaCodeWeek](https://africacodeweek.org/)
-- [SoftwaresKe](https://www.softwareske.com/)
-- [Webmetro Website Designers](https://webmetro.co.ke/)
-- [DevsyTech](https://devsytech.com/)
+- [Africa is Talking](https://community.africastalking.com/)
+- [ANdela Nairobi](https://www.andela.com/)
 - [Brimatech](https://www.brimmatech.co.ke/)
-- [PaystrAfrica](https://paystarafrica.com/)
 - [Chalosoftsystems](https://chalosoftsystems.co.ke/)
+- [Chelosoft](https://chalosoftsystems.co.ke/)
+- [DevsyTech](https://devsytech.com/)
+- [Fluid Tech Global](https://fluidtechglobal.com/)
+- [Google Developer Groups Nairobi](https://gdg.community.dev/gdg-nairobi/)
+- [Graph Tech Mobile Applications Devs](https://graph.co.ke/)
+- [iDevelopers tech](https://idevelopertechnologies.co.ke/)
+- [Kenyawebsite](https://kenyawebsite.com/)
+- [Microsoft Kenya](https://www.microsoft.com/en-us/contact_en-ke.aspx)
+- [Mentorlst](https://mentorlst.com/dashboard)
+- [PaystrAfrica](https://paystarafrica.com/)
+- [Power Learn Project](https://powerlearnprojectafrica.org/)
+- [Techvannah](https://techvannah.com/)
+- [Tech2Give](https://teach2give.com/#)
+- [SoftwaresKe](https://www.softwareske.com/)
 - [Sawasawa Solutions](https://sawasawa.com/)
 - [Smartcode Technologies](https://www.smartcode.co.ke/)
-- [iDevelopers tech](https://idevelopertechnologies.co.ke/)
 - [Synacor](https://www.synacor.co.ke/)
-- [Chelosoft](https://chalosoftsystems.co.ke/)
-- [Mentorlst](https://mentorlst.com/dashboard)
-- [ANdela Nairobi](https://www.andela.com/)
 - [The Jitu Nyeri](https://thejitu.com/)
+- [Webmetro Website Designers](https://webmetro.co.ke/)
 
 
-
-### Cyber security
+### Cyber Security
 
  - [Frepers PTaaS Cyber security](https://frepers.co.ke/)
  - [East Africa Data Handlers](https://eadatahandlers.co.ke/)
@@ -115,6 +115,8 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
  - [Standard Media group](https://www.standardmedia.co.ke/)
  - [Nation Media Group PLC](https://www.nationmedia.com/)
  - [Royal Media](https://royalmedia.co.ke/)
+ - [K24 Digital](https://k24.digital/)
+ - [Kenya Moja](https://www.kenyamoja.com/)
    
 
 
