@@ -183,7 +183,7 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
 
 ---------------------------
 
-Closing Note
+## Closing Note
 Thank you for visiting our repository! We hope you found this list of tech companies in Kenya informative and helpful. If you have any questions, concerns, or suggestions, please don't hesitate to reach out to us.
 
 We welcome contributions from everyone, and we're always looking for ways to improve and expand this repository. If you're interested in contributing, please check out our Contributors section for more information.
