@@ -1,9 +1,6 @@
 # List-of-Tech-Companies-in-Kenya
 This repository aims to provide a valuable resource for anyone interested in exploring the tech landscape in Kenya, whether for research, internship, business opportunities, or networking. We hope you find this list helpful and informative!
 
-# Disclaimer 
-All of this repository content are based on our own personal resources and hereby provided as it is.ANYONE IS FREE TO RAISE CONCERNS IF THE REPO SEEMS BIASED. Here, you'll find a comprehensive list of technology companies based in Kenya. Kenya, often referred to as the "Silicon Savannah," is home to a vibrant tech ecosystem with numerous innovative companies driving growth and development in various sectors such as fintech, e-commerce, software development, and digital marketing.
-
 
 # Overview of Kenya's Tech Ecosystem
 Kenya's tech ecosystem has rapidly evolved, positioning itself as a hub for innovation in Africa. This growth is driven by a combination of entrepreneurial spirit, technological advancements, and supportive government policies. Nairobi, the capital city, is often dubbed as the "Silicon Savannah" due to its thriving startup scene.
@@ -21,29 +18,26 @@ Kenya's focus on education and talent development has been crucial in building a
 The tech boom in Kenya has positively impacted other sectors, including finance, agriculture, and healthcare. Digital platforms are revolutionizing how Kenyans access services, from e-commerce and online banking to telemedicine and digital education.
 
 
-## Contributors
+---------------
 
-We welcome contributions from everyone! Check out the [Contributors](https://github.com/wekesaryan/List-Of-Tech-Companies-in-Kenya/graphs/contributors) to see who has helped build this repository.
-
-
-## NOTE: The List is arranged in Alphabetical order.
 
 ### Artificial Intelligence
 
 | Company's Website                                         | Company Type       | Location/County |
 |-----------------------------------------------------------|--------------------|-----------------|
-| [Kenya AI](https://kenya.ai/)                             |
+| [Kenya AI](https://kenya.ai/)                             |                    | Nairobi         |
 | Oasis Outsourcing                                         |
 | Keyflow LLC                                               |
 
 
 ### Blockcahin Technology
 
-| Company's Website                                               | Comapany Type       |Location/County   |
-|-----------------------------------------------------------------|---------------------|------------------|
-| [Hyperlink InfoSystem](https://www.hyperlinkinfosystem.com/)    |                     | Nairobi          |
-| [Blockchain Technologies(K) ltd](https://blockchaintech.co.ke/) |                     | Nairobi          |
-| [ClixPesa](https://clixpesa.com/)                               |                     | Nairobi          | 
+| Company's Website                                               | Comapany Type       |Location/County      |
+|-----------------------------------------------------------------|---------------------|---------------------|
+| [Hyperlink InfoSystem](https://www.hyperlinkinfosystem.com/)    |                     | Nairobi             |
+| [Blockchain Technologies(K) ltd](https://blockchaintech.co.ke/) |                     | Nairobi             |
+| [ClixPesa](https://clixpesa.com/)                               |                     | Nairobi             |
+| [Mobirevo](https://mobirevo.com/)                               |                     | Nairobi Ke,NIgeria  |
 
 
 
@@ -74,9 +68,9 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
 
 | Company's Website                                            | Company Type     | Location/County   |
 |--------------------------------------------------------------|------------------|-------------------|
-| [AfricaHackOn](https://africahackon.com/)                    |                  |
-| [Crystal Tech](https://crystaltech.co.ke/)                   |
-| [East Africa Data Handlers](https://eadatahandlers.co.ke/)   |
+| [AfricaHackOn](https://africahackon.com/)                    | Multinational                        |
+| [Crystal Tech](https://crystaltech.co.ke/)                   |                  | Nairobi           |
+| [East Africa Data Handlers](https://eadatahandlers.co.ke/)   | Multinational    |
 | [Frepers PTaaS Cyber security](https://frepers.co.ke/)       |
 | [wHTa Networks](https://whtanetworks.com/)                   |
 
@@ -87,11 +81,12 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
 
 | Company's Website                                             |   Company Type     | Location/County  |
 |---------------------------------------------------------------|--------------------|------------------|
-| [Niko creative Kenya](https://www.nikocreative.co.ke/)        |                    |
-| [Digicreative](https://digicreative.co.ke/)                   |                    |                  |
+| [Creative Kigen](https://creativekigen.com/)                  |                    |                  |
+| [Crystal Tech](https://crystaltech.co.ke/)                    |                    | Nairobi          |
 | [brait Consulting](https://braitconsulting.com/)              |
-| [Brandboulevardstudios](https://brandboulevardstudios.com/)   |  Startup           |                   |
-| [Creative Kigen](https://creativekigen.com/)                  |                    |                   |
+| [Brandboulevardstudios](https://brandboulevardstudios.com/)   |  Startup           |                  |
+| [Digicreative](https://digicreative.co.ke/)                   |                    |                  |
+| [Niko creative Kenya](https://www.nikocreative.co.ke/)        |                    |
 
 
 ### Media and films
@@ -124,10 +119,11 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
 | [Africa is Talking](https://community.africastalking.com/)           |   Startup           | Nairobi             |      
 | [ANdela Nairobi](https://www.andela.com/)                            |                     | Nairobi             |
 | [Brimatech](https://www.brimmatech.co.ke/)                           |
-| [Chalosoftsystems](https://chalosoftsystems.co.ke/)                  |
+|| [Crystal Tech](https://crystaltech.co.ke/)                          |                     | Nairobi             | 
+| [Creative Kigen](https://creativekigen.com/)                         |                     |                     |
 | [DevsyTech](https://devsytech.com/)                                  |  Startup            | Nyeri               |                     
 | [Fluid Tech Global](https://fluidtechglobal.com/)                    |
-| [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)    | Multinational       | Nairobi             | 
+| [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)    | Multinational       | Nairobi            | 
 | [Graph Tech Mobile Applications Devs](https://graph.co.ke/)          |
 | [iDevelopers tech](https://idevelopertechnologies.co.ke/)            |
 | [Kenyawebsite](https://kenyawebsite.com/)                            |
@@ -180,6 +176,17 @@ Smart Academy is the ICT Authority’s Excellent Training School specializing in
 Smart Academy is working to support Kenya’s vision to become a Smart Nation by 2030. As the world’s economy is aggressively shifting towards technology-driven industries, individuals and citizens have difficulties keeping up with speed in ICT skills requirement, and this is where Smart Academy comes in to collaborate with Tech partners to offer the right skills set for Citizens to adopt with the dynamic Digital Ecosystem.
  
 ----------------------------------
+
+# Disclaimer 
+All of this repository content are based on our own personal resources and hereby provided as it is.ANYONE IS FREE TO RAISE CONCERNS IF THE REPO SEEMS BIASED. Here, you'll find a comprehensive list of technology companies based in Kenya. Kenya, often referred to as the "Silicon Savannah," is home to a vibrant tech ecosystem with numerous innovative companies driving growth and development in various sectors such as fintech, e-commerce, software development, and digital marketing.
+
+
+## Contributors
+
+We welcome contributions from everyone! Check out the [Contributors](https://github.com/wekesaryan/List-Of-Tech-Companies-in-Kenya/graphs/contributors) to see who has helped build this repository.
+
+---------------------------
+
 Closing Note
 Thank you for visiting our repository! We hope you found this list of tech companies in Kenya informative and helpful. If you have any questions, concerns, or suggestions, please don't hesitate to reach out to us.
 
