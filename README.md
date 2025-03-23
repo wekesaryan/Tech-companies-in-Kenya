@@ -2,7 +2,7 @@
 This repository aims to provide a valuable resource for anyone interested in exploring the tech landscape in Kenya, whether for research, internship, business opportunities, or networking. We hope you find this list helpful and informative!
 
 # Disclaimer 
-All of this repository content are based on our own personal resources and hereby provided as it is.** ANYONE IS FREE TO RAISE CONCERNS IF THE REPO SEEMS BIASED. ** Here, you'll find a comprehensive list of technology companies based in Kenya. Kenya, often referred to as the "Silicon Savannah," is home to a vibrant tech ecosystem with numerous innovative companies driving growth and development in various sectors such as fintech, e-commerce, software development, and digital marketing.
+All of this repository content are based on our own personal resources and hereby provided as it is.ANYONE IS FREE TO RAISE CONCERNS IF THE REPO SEEMS BIASED. Here, you'll find a comprehensive list of technology companies based in Kenya. Kenya, often referred to as the "Silicon Savannah," is home to a vibrant tech ecosystem with numerous innovative companies driving growth and development in various sectors such as fintech, e-commerce, software development, and digital marketing.
 
 
 # Overview of Kenya's Tech Ecosystem
@@ -26,111 +26,142 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 We welcome contributions from everyone! Check out the [Contributors](https://github.com/wekesaryan/List-Of-Tech-Companies-in-Kenya/graphs/contributors) to see who has helped build this repository.
 
 
-
-### Software Development
-
-- [AfricaCodeWeek](https://africacodeweek.org/)
-- [Africa is Talking](https://community.africastalking.com/)
-- [ANdela Nairobi](https://www.andela.com/)
-- [Brimatech](https://www.brimmatech.co.ke/)
-- [Chalosoftsystems](https://chalosoftsystems.co.ke/)
-- [Chelosoft](https://chalosoftsystems.co.ke/)
-- [DevsyTech](https://devsytech.com/)
-- [Fluid Tech Global](https://fluidtechglobal.com/)
-- [Google Developer Groups Nairobi](https://gdg.community.dev/gdg-nairobi/)
-- [Graph Tech Mobile Applications Devs](https://graph.co.ke/)
-- [iDevelopers tech](https://idevelopertechnologies.co.ke/)
-- [Kenyawebsite](https://kenyawebsite.com/)
-- [Microsoft Kenya](https://www.microsoft.com/en-us/contact_en-ke.aspx)
-- [Mentorlst](https://mentorlst.com/dashboard)
-- [PaystrAfrica](https://paystarafrica.com/)
-- [Power Learn Project](https://powerlearnprojectafrica.org/)
-- [Techvannah](https://techvannah.com/)
-- [Tech2Give](https://teach2give.com/#)
-- [SoftwaresKe](https://www.softwareske.com/)
-- [Sawasawa Solutions](https://sawasawa.com/)
-- [Smartcode Technologies](https://www.smartcode.co.ke/)
-- [Synacor](https://www.synacor.co.ke/)
-- [The Jitu Nyeri](https://thejitu.com/)
-- [Webmetro Website Designers](https://webmetro.co.ke/)
-
-
-### Cyber Security
-
- - [Frepers PTaaS Cyber security](https://frepers.co.ke/)
- - [East Africa Data Handlers](https://eadatahandlers.co.ke/)
- - [AfricaHackOn](https://africahackon.com/)
- - [wHTa Networks](https://whtanetworks.com/)
- - [Crystal Tech](https://crystaltech.co.ke/)
-
-
+## NOTE: The List is arranged in Alphabetical order.
 
 ### Artificial Intelligence
 
- - [Kenya AI](https://kenya.ai/)
- - Oasis Outsourcing
- - Keyflow LLC
+| Company's Website                                         | Company Type       | Location/County |
+|-----------------------------------------------------------|--------------------|-----------------|
+| [Kenya AI](https://kenya.ai/)                             |
+| Oasis Outsourcing                                         |
+| Keyflow LLC                                               |
+
+
+### Blockcahin Technology
+
+| Company's Website                                               | Comapany Type       |Location/County   |
+|-----------------------------------------------------------------|---------------------|------------------|
+| [Hyperlink InfoSystem](https://www.hyperlinkinfosystem.com/)    |                     | Nairobi          |
+| [Blockchain Technologies(K) ltd](https://blockchaintech.co.ke/) |                     | Nairobi          |
+| [ClixPesa](https://clixpesa.com/)                               |                     | Nairobi          | 
+
 
 
 ### Cloud Computing
 
-- [Cloud Backup](https://cloudbackup.co.ke/)
-- [ManageIT Africa](https://manageitafrica.com/)
+| Company's Website                                         | Company Type         | Location/County  |
+|-----------------------------------------------------------|----------------------|------------------|
+| [Cloud Backup](https://cloudbackup.co.ke/)                |
+| [ManageIT Africa](https://manageitafrica.com/)            |
+| [Safaricom Bussiness](https://www.safaricom.co.ke/)       |   Private            |
 
 
-### Internet Service Providers (ISP)
 
-- [Safaricom Bussiness](https://www.safaricom.co.ke/)
-- [Telcom Kenya](https://telkom.co.ke/)
-- [Jammi Telecommunication](https://jtl.co.ke/)
-- [ZUKU Internet](https://zuku.co.ke/triple-play/)
-- [Poa! Internet](https://poa.co.ke/)
-- [Surfnet Solutions](https://surfnetsolution.com/)
-- [VHost Limited](https://vhost.bz/)
+### Computer Networking
 
-
-### E-commerce
-
-- [Jumia](https://www.jumia.co.ke)
-- [Kilimall](https://www.kilimall.co.ke/)
-- [Mkurugenzi Merchandise](https://mkurugenzi.co.ke/)
-
-### Online courses
-
- - [Moringa School](https://moringaschool.com/)
- - [ALX Africa](https://www.alxafrica.com/programmes/)
+| Company's Website                                        |  Company Type      |Location/County  |
+|----------------------------------------------------------|--------------------|-----------------|
+| [Jammi Telecommunication](https://jtl.co.ke/)            |
+| [Poa! Internet](https://poa.co.ke/)                      | Private            | Nairobi
+| [Safaricom Bussiness](https://www.safaricom.co.ke/)      |                    | Country Wide    |
+| [Surfnet Solutions](https://surfnetsolution.com/)        |
+| [Telcom Kenya](https://telkom.co.ke/)                    |
+| [ZUKU Internet](https://zuku.co.ke/triple-play/)         | 
+| [VHost Limited](https://vhost.bz/)                       |
 
 
-### Graphic Design
+### Cyber Security
 
- - [Niko creative Kenya](https://www.nikocreative.co.ke/)
- - [Digicreative](https://digicreative.co.ke/)
- - [brait Consulting](https://braitconsulting.com/)
- - [Brandboulevardstudios](https://brandboulevardstudios.com/)
- - [Creative Kigen](https://creativekigen.com/)
+| Company's Website                                            | Company Type     | Location/County   |
+|--------------------------------------------------------------|------------------|-------------------|
+| [AfricaHackOn](https://africahackon.com/)                    |                  |
+| [Crystal Tech](https://crystaltech.co.ke/)                   |
+| [East Africa Data Handlers](https://eadatahandlers.co.ke/)   |
+| [Frepers PTaaS Cyber security](https://frepers.co.ke/)       |
+| [wHTa Networks](https://whtanetworks.com/)                   |
+
+
+
+
+### Graphic Designs
+
+| Company's Website                                             |   Company Type     | Location/County  |
+|---------------------------------------------------------------|--------------------|------------------|
+| [Niko creative Kenya](https://www.nikocreative.co.ke/)        |                    |
+| [Digicreative](https://digicreative.co.ke/)                   |                    |                  |
+| [brait Consulting](https://braitconsulting.com/)              |
+| [Brandboulevardstudios](https://brandboulevardstudios.com/)   |  Startup           |                   |
+| [Creative Kigen](https://creativekigen.com/)                  |                    |                   |
 
 
 ### Media and films
- - [Kenya Broadcasting Cooperation(KBC)](https://kbctv.co.ke/)
- - [Standard Media group](https://www.standardmedia.co.ke/)
- - [Nation Media Group PLC](https://www.nationmedia.com/)
- - [Royal Media](https://royalmedia.co.ke/)
- - [K24 Digital](https://k24.digital/)
- - [Kenya Moja](https://www.kenyamoja.com/)
-   
+
+| Company's Website                                           |   Company Type   |Location/County  |
+|-------------------------------------------------------------|------------------|-----------------|
+| [Kenya Broadcasting Cooperation(KBC)](https://kbctv.co.ke/) |  Public          | Nairobi         |
+| [Standard Media group](https://www.standardmedia.co.ke/)    |  Private         | Nairobi         |
+| [Nation Media Group PLC](https://www.nationmedia.com/)      | Private          | Nairobi         |
+| [Royal Media](https://royalmedia.co.ke/)                    | Private          | Nairobi         |
+| [K24 Digital](https://k24.digital/)                         | Private          | Nairobi         |
+| [Kenya Moja](https://www.kenyamoja.com/)                    | Private          |                 |
+
+
+### Online courses & Certifications
+
+| Company's Website                                                 |   Company Type   | Location/County  |
+|-------------------------------------------------------------------|------------------|------------------|
+| [Moringa School](https://moringaschool.com/)                      |
+| [ALX Africa](https://www.alxafrica.com/programmes/)               |  Multinational   | Nairobi          |
+| [Zindua School](https://zinduaschool.com)                         |                  | Nairobi          |
+| [Brait Academy](https://learn.braitacademy.com/)                  |
+
+
+### Software Development
+
+| Company's Website                                                    |   Company Type      | Location/County     | 
+|----------------------------------------------------------------------|---------------------|---------------------|
+| [AfricaCodeWeek](https://africacodeweek.org/)                        |                     | Nairobi             |     
+| [Africa is Talking](https://community.africastalking.com/)           |   Startup           | Nairobi             |      
+| [ANdela Nairobi](https://www.andela.com/)                            |                     | Nairobi             |
+| [Brimatech](https://www.brimmatech.co.ke/)                           |
+| [Chalosoftsystems](https://chalosoftsystems.co.ke/)                  |
+| [DevsyTech](https://devsytech.com/)                                  |  Startup            | Nyeri               |                     
+| [Fluid Tech Global](https://fluidtechglobal.com/)                    |
+| [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)    | Multinational       | Nairobi             | 
+| [Graph Tech Mobile Applications Devs](https://graph.co.ke/)          |
+| [iDevelopers tech](https://idevelopertechnologies.co.ke/)            |
+| [Kenyawebsite](https://kenyawebsite.com/)                            |
+| [Microsoft Kenya](https://www.microsoft.com/en-us/contact_en-ke.aspx)|  Multinational      | Nairobi             |
+| [Mentorlst](https://mentorlst.com/dashboard)                         |
+| [PaystrAfrica](https://paystarafrica.com/)                           |
+| [Power Learn Project](https://powerlearnprojectafrica.org/)          |  Multinational      | Nairobi            |
+| [Techvannah](https://techvannah.com/)                                |
+| [Tech2Give](https://teach2give.com/#)                                |                     |  Nyeri              |
+| [SoftwaresKe](https://www.softwareske.com/)                          |
+| [Sawasawa Solutions](https://sawasawa.com/)                          |                     |
+| [Smartcode Technologies](https://www.smartcode.co.ke/)               |
+| [Synacor](https://www.synacor.co.ke/)                                |
+| [The Jitu ](https://thejitu.com/)                                    |                     |  Nyeri              | 
+| [Webmetro Website Designers](https://webmetro.co.ke/)                |                     |                     |
+
+
 
 
 ### Tech Hubs
- - [Sote Hub](https://www.sotehub.com/)
- - [CD4Lab](https://computerscience.uonbi.ac.ke/)
- - [SwahilipotHub](https://www.swahilipothub.co.ke)
- - [iHub](https://ihub.co.ke/)
- - [EldoHub](https://eldohub.co.ke/)
- - [Microsoft African Development Centre - Kenya](https://www.microsoft.com/madc)
- - [Mt Kenya Hub](https://mtkenyahub.com/ea/)
- - [Chandaria Business Innovation & Incubation Centre](https://www.ku.ac.ke/iiuil/)
- - [LakeHub](https://www.lakehub.co.ke/)
- - [KICTANET](https://www.kictanet.or.ke/)
+
+| Company's Website                                                                |  Company Type     | Location/County  |
+|----------------------------------------------------------------------------------|-------------------|------------------|
+| [EldoHub](https://eldohub.co.ke/)                                                |                   | Eldoret          |
+| [Chandaria Business Innovation & Incubation Centre](https://www.ku.ac.ke/iiuil/) |                   | Nairobi          |
+| [CD4Lab](https://computerscience.uonbi.ac.ke/)                                   | Public            | Nairobi          |
+| [KICTANET](https://www.kictanet.or.ke/)                                          |
+| [iHub](https://ihub.co.ke/)                                                      |
+| [LakeHub](https://www.lakehub.co.ke/)                                            |                    |   Kisumu       |
+| [Microsoft African Development Centre - Kenya](https://www.microsoft.com/madc)   |                    |    Nairobi     |
+| [Mt Kenya Hub](https://mtkenyahub.com/ea/)                                       |
+| [Sote Hub](https://www.sotehub.com/)                                             |
+| [SwahilipotHub](https://www.swahilipothub.co.ke)                                 |  Startup           |   Mombasa      |
+
     
 
 
@@ -148,8 +179,13 @@ The Government of Kenya established the Konza Technopolis Development Authority 
 Smart Academy is the ICT Authority’s Excellent Training School specializing in ICT and ICT Leadership and Governance training. Delivers ICT technologies training to Public sector, ICT Professional’s and Citizens in collaboration with ICT Technology partners and Academia. Equip Citizens with Digital Skills and digital career with Industry-relevant tech skills.
 Smart Academy is working to support Kenya’s vision to become a Smart Nation by 2030. As the world’s economy is aggressively shifting towards technology-driven industries, individuals and citizens have difficulties keeping up with speed in ICT skills requirement, and this is where Smart Academy comes in to collaborate with Tech partners to offer the right skills set for Citizens to adopt with the dynamic Digital Ecosystem.
  
+----------------------------------
+Closing Note
+Thank you for visiting our repository! We hope you found this list of tech companies in Kenya informative and helpful. If you have any questions, concerns, or suggestions, please don't hesitate to reach out to us.
 
+We welcome contributions from everyone, and we're always looking for ways to improve and expand this repository. If you're interested in contributing, please check out our Contributors section for more information.
 
+Happy exploring, and we look forward to seeing you in the tech world!
 
 
 
