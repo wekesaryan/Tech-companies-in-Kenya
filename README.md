@@ -119,7 +119,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [Africa is Talking](https://community.africastalking.com/)           |   Startup           | Nairobi             |      
 | [ANdela Nairobi](https://www.andela.com/)                            |                     | Nairobi             |
 | [Brimatech](https://www.brimmatech.co.ke/)                           |
-|| [Crystal Tech](https://crystaltech.co.ke/)                          |                     | Nairobi             | 
+| [Crystal Tech](https://crystaltech.co.ke/)                           |                     | Nairobi             | 
 | [Creative Kigen](https://creativekigen.com/)                         |                     |                     |
 | [DevsyTech](https://devsytech.com/)                                  |  Startup            | Nyeri               |                     
 | [Fluid Tech Global](https://fluidtechglobal.com/)                    |
