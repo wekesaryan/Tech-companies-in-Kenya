@@ -166,14 +166,10 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 The following is a list of Government initiated Tech projects in Kenya
 
 
-## 1.Konza Technopolis
-- [Konza](https://konza.go.ke/)
-The Government of Kenya established the Konza Technopolis Development Authority (KoTDA) as a special purpose entity to facilitate the development of Konza. The mission of KoTDA is to ensure that Konza grows into a sustainable, world-class technology hub and a major economic driver for the nation, with a vibrant mix of businesses, workers, residents, and urba​​n amenities. KoTDA is responsible for overseeing the development and management of Konza, and for establishing a strong value proposition for businesses to locate and expand in Konza. KoTDA’s Board of Directors was appointed in 2013.
-
- ## 2. Smart Academy
- - [Smart Academy](https://www.smartacademy.go.ke/)
-Smart Academy is the ICT Authority’s Excellent Training School specializing in ICT and ICT Leadership and Governance training. Delivers ICT technologies training to Public sector, ICT Professional’s and Citizens in collaboration with ICT Technology partners and Academia. Equip Citizens with Digital Skills and digital career with Industry-relevant tech skills.
-Smart Academy is working to support Kenya’s vision to become a Smart Nation by 2030. As the world’s economy is aggressively shifting towards technology-driven industries, individuals and citizens have difficulties keeping up with speed in ICT skills requirement, and this is where Smart Academy comes in to collaborate with Tech partners to offer the right skills set for Citizens to adopt with the dynamic Digital Ecosystem.
+|  Project                      |                                          Describtion                                                  |
+--------------------------------|------------------------------------------------------------------------------------------------------ |
+| [KonzaTechnopolis](https://konza.go.ke/) |The Government of Kenya established the Konza Technopolis Development Authority (KoTDA) as a special purpose entity to facilitate the development of Konza. The mission of KoTDA is to ensure that Konza grows into a sustainable, world-class technology hub and a major economic driver for the nation, with avibrant mix of businesses, workers, residents, and urba​​n amenities. <br> KoTDA is responsible for overseeing the development and management of Konza, and for establishing a strong value proposition for businesses to locate and expand in Konza. KoTDA’s Board of Directors was appointed in 2013. |        
+| [Smart Academy](https://www.smartacademy.go.ke/) |Smart Academy is the ICT Authority’s Excellent Training School specializing in ICT and ICT Leadership and Governance training. Delivers ICT technologies training to Public sector, ICT Professional’s and Citizens in collaboration with ICT Technology partners and Academia. Equip Citizens with Digital Skills and digital career with Industry-relevant tech skills. <br> Smart Academy is working to support Kenya’s vision to become a Smart Nation by 2030. <br> As the world’s economy is aggressively shifting towards technology-driven industries, individuals and citizens have difficulties keeping up with speed in ICT skills requirement, and this is where Smart Academy comes in to collaborate with Tech partners to offer the right skills set for Citizens to adopt with the dynamic Digital Ecosystem. |
  
 ----------------------------------
 
