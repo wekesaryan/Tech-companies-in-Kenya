@@ -93,7 +93,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 | Company's Website                                           |   Company Type   |Location/County  |
 |-------------------------------------------------------------|------------------|-----------------|
-| [Capchin TV](https://capuchintv.co.ke/)                     |                  | Nairobi         |
+| [Capuchin TV](https://capuchintv.co.ke/)                    |                  | Nairobi         |
 | [K24 Digital](https://k24.digital/)                         | Private          | Nairobi         |
 | [Kenya Broadcasting Cooperation(KBC)](https://kbctv.co.ke/) |  Public          | Nairobi         |
 | [Kenya Moja](https://www.kenyamoja.com/)                    | Private          |                 |
