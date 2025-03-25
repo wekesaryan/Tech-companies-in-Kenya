@@ -22,10 +22,11 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 # Artificial Intelligence
 
-| Company's Website                                               | Company Type       | Location/County |
-|-----------------------------------------------------------------|--------------------|-----------------|
-| [Kenya AI](https://kenya.ai/)                                   |                    | Nairobi         |
-| [Computer Revolution Tech Group](https://www.cragroup.co.ke/)   |                     
+| Company's Website                                                                 | Company Type       | Location/County |
+|-----------------------------------------------------------------------------------|--------------------|-----------------|
+| [Computer Revolution Tech Group](https://www.cragroup.co.ke/)                     |                    
+| [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)    | Multinational               | Nairobi             | 
+| [Kenya AI](https://kenya.ai/)                                                     |                    | Nairobi         | 
 
 
 # Blockcahin Technology
@@ -43,6 +44,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 | Company's Website                                         | Company Type         | Location/County  |
 |-----------------------------------------------------------|----------------------|------------------|
+| [AWS User Group Kenya](https://awsusergroupkenya.co.ke/)  |  Community=led       | Nairobi          |
 | [Cloud Backup](https://cloudbackup.co.ke/)                |                      | Nairobi          |
 | [ManageIT Africa](https://manageitafrica.com/)            |
 | [Safaricom Bussiness](https://www.safaricom.co.ke/)       |   Private            |   Nairobi        |
@@ -131,6 +133,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [Brimatech](https://www.brimmatech.co.ke/)                           |
 | [Crystal Tech](https://crystaltech.co.ke/)                           |                             | Nairobi             | 
 | [Creative Kigen](https://creativekigen.com/)                         |                             |                     |
+| [DevOps Summit Africa](https://devopssummit.africa/)                 |                             | Nairobi             |
 | [DevsyTech](https://devsytech.com/)                                  |  Startup                    | Nyeri               |                     
 | [Fluid Tech Global](https://fluidtechglobal.com/)                    |
 | [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)    | Multinational               | Nairobi             | 
@@ -140,6 +143,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [Kenic TLD](https://kenic.or.ke/)                                    | public-private partnership | Nairobi             |
 | [Microsoft Kenya](https://www.microsoft.com/en-us/contact_en-ke.aspx)|  Multinational             | Nairobi             |
 | [Mentorlst](https://mentorlst.com/dashboard)                         |
+| [Nairobi DevOps Org](https://nairobidevops.org/)                     |                            | Nairobi             |
 | [PaystrAfrica](https://paystarafrica.com/)                           |
 | [Power Learn Project](https://powerlearnprojectafrica.org/)          |  Multinational             | Nairobi             |
 | [Techvannah](https://techvannah.com/)                                |
