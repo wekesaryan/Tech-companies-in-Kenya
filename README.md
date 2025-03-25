@@ -102,7 +102,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [Royal Media](https://royalmedia.co.ke/)                    | Private          | Nairobi         |
 | [Standard Media group](https://www.standardmedia.co.ke/)    |  Private         | Nairobi         |
 | [Tandao Media Group](https://tandaomedia.co.ke/)            |                  |    
-| [TV47 Digital][https://www.tv47.digital/]                   |                  | Nairobi         |
+| [TV47 Digital](https://www.tv47.digital/)                   |                  | Nairobi         |
 
 
 ### Online courses & Certifications
