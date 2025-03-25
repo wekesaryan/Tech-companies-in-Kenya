@@ -72,6 +72,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [Crystal Tech](https://crystaltech.co.ke/)                   |                  | Nairobi           |
 | [East Africa Data Handlers](https://eadatahandlers.co.ke/)   | Multinational    |
 | [Frepers PTaaS Cyber security](https://frepers.co.ke/)       |
+| [HackerSploit](https://hackersploit.org/)                    |                  | Nairobi          |
 | [wHTa Networks](https://whtanetworks.com/)                   |
 
 
@@ -109,10 +110,11 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 | Company's Website                                                 |   Company Type   | Location/County  |
 |-------------------------------------------------------------------|------------------|------------------|
-| [Moringa School](https://moringaschool.com/)                      |
 | [ALX Africa](https://www.alxafrica.com/programmes/)               |  Multinational   | Nairobi          |
-| [Zindua School](https://zinduaschool.com)                         |                  | Nairobi          |
 | [Brait Academy](https://learn.braitacademy.com/)                  |
+| [HackerSploit Academy](https://hackersploit.academy/)             |                  | Nairobi          |
+| [Moringa School](https://moringaschool.com/)                      |
+| [Zindua School](https://zinduaschool.com)                         |                  | Nairobi          |
 
 
 ### Software Development
