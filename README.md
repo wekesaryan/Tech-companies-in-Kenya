@@ -136,6 +136,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [SoftwaresKe](https://www.softwareske.com/)                          |
 | [Sawasawa Solutions](https://sawasawa.com/)                          |                     |
 | [Smartcode Technologies](https://www.smartcode.co.ke/)               |
+| [Space Ya Tech](https://www.spaceyatech.com/).    |
 | [Synacor](https://www.synacor.co.ke/)                                |
 | [The Jitu ](https://thejitu.com/)                                    |                     |  Nyeri              | 
 | [Webmetro Website Designers](https://webmetro.co.ke/)                |                     |                     |
