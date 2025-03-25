@@ -1,4 +1,4 @@
-9# List-of-Tech-Companies-in-Kenya
+## List-of-Tech-Companies-in-Kenya
 This repository aims to provide a valuable resource for anyone interested in exploring the tech landscape in Kenya, whether for research, internship, business opportunities, or networking. We hope you find this list helpful and informative!
 
 
@@ -89,16 +89,20 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [Niko creative Kenya](https://www.nikocreative.co.ke/)        |                    |
 
 
-### Media and films
+### Multimedia and films
 
 | Company's Website                                           |   Company Type   |Location/County  |
 |-------------------------------------------------------------|------------------|-----------------|
+| [Capchin TV](https://capuchintv.co.ke/)                     |                  | Nairobi         |
+| [K24 Digital](https://k24.digital/)                         | Private          | Nairobi         |
 | [Kenya Broadcasting Cooperation(KBC)](https://kbctv.co.ke/) |  Public          | Nairobi         |
-| [Standard Media group](https://www.standardmedia.co.ke/)    |  Private         | Nairobi         |
+| [Kenya Moja](https://www.kenyamoja.com/)                    | Private          |                 |
+| [Kenyatta University TV(KUTV)](https://kutv.co.ke/)         |                  | Nairobi         |
 | [Nation Media Group PLC](https://www.nationmedia.com/)      | Private          | Nairobi         |
 | [Royal Media](https://royalmedia.co.ke/)                    | Private          | Nairobi         |
-| [K24 Digital](https://k24.digital/)                         | Private          | Nairobi         |
-| [Kenya Moja](https://www.kenyamoja.com/)                    | Private          |                 |
+| [Standard Media group](https://www.standardmedia.co.ke/)    |  Private         | Nairobi         |
+| [Tandao Media Group](https://tandaomedia.co.ke/)            |                  |    
+| [TV47 Digital][https://www.tv47.digital/]                   |                  | Nairobi         |
 
 
 ### Online courses & Certifications
@@ -136,7 +140,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [SoftwaresKe](https://www.softwareske.com/)                          |
 | [Sawasawa Solutions](https://sawasawa.com/)                          |                     |
 | [Smartcode Technologies](https://www.smartcode.co.ke/)               |
-| [Space Ya Tech](https://www.spaceyatech.com/)    | Open-source    |        | 
+| [Space Ya Tech](https://www.spaceyatech.com/)                        | Open-source         |                    | 
 | [Synacor](https://www.synacor.co.ke/)                                |
 | [The Jitu ](https://thejitu.com/)                                    |                     |  Nyeri              | 
 | [Webmetro Website Designers](https://webmetro.co.ke/)                |                     |                     |
@@ -169,8 +173,10 @@ The following is a list of Government initiated Tech projects in Kenya
 
 |  Project                      |                                          Describtion                                                  |
 --------------------------------|------------------------------------------------------------------------------------------------------ |
-| [KonzaTechnopolis](https://konza.go.ke/) |The Government of Kenya established the Konza Technopolis Development Authority (KoTDA) as a special purpose entity to facilitate the development of Konza. The mission of KoTDA is to ensure that Konza grows into a sustainable, world-class technology hub and a major economic driver for the nation, with avibrant mix of businesses, workers, residents, and urba​​n amenities. <br> KoTDA is responsible for overseeing the development and management of Konza, and for establishing a strong value proposition for businesses to locate and expand in Konza. KoTDA’s Board of Directors was appointed in 2013. |        
-| [Smart Academy](https://www.smartacademy.go.ke/) |Smart Academy is the ICT Authority’s Excellent Training School specializing in ICT and ICT Leadership and Governance training. Delivers ICT technologies training to Public sector, ICT Professional’s and Citizens in collaboration with ICT Technology partners and Academia. Equip Citizens with Digital Skills and digital career with Industry-relevant tech skills. <br> Smart Academy is working to support Kenya’s vision to become a Smart Nation by 2030. <br> As the world’s economy is aggressively shifting towards technology-driven industries, individuals and citizens have difficulties keeping up with speed in ICT skills requirement, and this is where Smart Academy comes in to collaborate with Tech partners to offer the right skills set for Citizens to adopt with the dynamic Digital Ecosystem. |
+| [Ministry of ICT Kenya](https://www.ict.go.ke/) | State Departments. <br> 1. ICT and Digital Economy <br> 2. Broadcasting and Telecommunications <br> <br> The Ministry has adopted the following policy priorities <br> Implementation  of  service charter <br> Capacity building in the ICT sector <br> Modernization of equipment <br> Mainstreaming the HIV/AIDS <br> health and safety activities in the Ministry <br> Facilitation of the  Development of knowledge based information society <br> Continuous review of the legal framework, Promotion of  regional and international corporation in ICT issues <br> Creation of employment through outsourcing of ICT services <br> Periodically review and update National ICT policy to facilitate development of the ICT sector. |
+| [National KE-CIRT/CC](https://ke-cirt.go.ke/) | The National KE-CIRT/CC is a multi-agency framework that coordinates response to cyber security matters at the national level in collaboration with relevant actors locally and internationally. <br>The National KE-CIRT/CC, which is domiciled at the Communications Authority of Kenya, comprises of technical staff from the Authority and various law enforcement agencies. |
+| [KonzaTechnopolis](https://konza.go.ke/) |The Government of Kenya established the Konza Technopolis Development Authority (KoTDA) as a special purpose entity to facilitate the development of Konza. <br> The mission of KoTDA is to ensure that Konza grows into a sustainable, world-class technology hub and a major economic driver for the nation, with avibrant mix of businesses, workers, residents, and urba​​n amenities. <br> KoTDA is responsible for overseeing the development and management of Konza, and for establishing a strong value proposition for businesses to locate and expand in Konza. KoTDA’s Board of Directors was appointed in 2013. |        
+| [Smart Academy](https://www.smartacademy.go.ke/) |Smart Academy is the ICT Authority’s Excellent Training School specializing in ICT and ICT Leadership and Governance training. <br> Delivers ICT technologies training to Public sector, ICT Professional’s and Citizens in collaboration with ICT Technology partners and Academia. <br> Equip Citizens with Digital Skills and digital career with Industry-relevant tech skills. <br> Smart Academy is working to support Kenya’s vision to become a Smart Nation by 2030. <br> As the world’s economy is aggressively shifting towards technology-driven industries, individuals and citizens have difficulties keeping up with speed in ICT skills requirement, and this is where Smart Academy comes in to collaborate with Tech partners to offer the right skills set for Citizens to adopt with the dynamic Digital Ecosystem. |
  
 ----------------------------------
 
