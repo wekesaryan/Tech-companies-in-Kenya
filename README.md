@@ -1,4 +1,4 @@
-## List-of-Tech-Companies-in-Kenya
+## Some of Tech Companies for internship in Kenya
 This repository aims to provide a valuable resource for anyone interested in exploring the tech landscape in Kenya, whether for research, internship, business opportunities, or networking. We hope you find this list helpful and informative!
 
 
