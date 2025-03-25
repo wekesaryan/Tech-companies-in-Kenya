@@ -1,36 +1,34 @@
-## Some of Tech Companies for internship in Kenya
 This repository aims to provide a valuable resource for anyone interested in exploring the tech landscape in Kenya, whether for research, internship, business opportunities, or networking. We hope you find this list helpful and informative!
 
 
-# Overview of Kenya's Tech Ecosystem
+## Overview of Kenya's Tech Ecosystem
 Kenya's tech ecosystem has rapidly evolved, positioning itself as a hub for innovation in Africa. This growth is driven by a combination of entrepreneurial spirit, technological advancements, and supportive government policies. Nairobi, the capital city, is often dubbed as the "Silicon Savannah" due to its thriving startup scene.
 
-# Key Sectors and Innovations
+## Key Sectors and Innovations
 The Kenyan startup landscape is not just thriving in quantity but also in quality, with many startups achieving international recognition and investment. Sectors like agri-tech, health-tech, and ed-tech are emerging alongside the established fintech sector1. The use of mobile money platforms like M-Pesa has revolutionized financial transactions in the country.
 
-# Government Initiatives and Support
+## Government Initiatives and Support
 The Kenyan government has played a significant role in fostering this tech growth. Initiatives like Konza Technopolis and support for ICT innovation hubs have provided a conducive environment for tech startups and entrepreneurs. Policies such as tax incentives for tech startups and investments in digital infrastructure have been pivotal in creating an environment where technology and innovation can flourish.
 
-# Education and Talent Development
+## Education and Talent Development
 Kenya's focus on education and talent development has been crucial in building a skilled workforce to drive the tech ecosystem. Universities and colleges are increasingly offering courses in IT and related fields, aligning with industry needs1. Collaboration between academia and industry ensures a steady pipeline of skilled professionals.
 
-# Impact on Other Sectors
+## Impact on Other Sectors
 The tech boom in Kenya has positively impacted other sectors, including finance, agriculture, and healthcare. Digital platforms are revolutionizing how Kenyans access services, from e-commerce and online banking to telemedicine and digital education.
 
 
 ---------------
 
 
-### Artificial Intelligence
+# Artificial Intelligence
 
-| Company's Website                                         | Company Type       | Location/County |
-|-----------------------------------------------------------|--------------------|-----------------|
-| [Kenya AI](https://kenya.ai/)                             |                    | Nairobi         |
-| Oasis Outsourcing                                         |
-| Keyflow LLC                                               |
+| Company's Website                                               | Company Type       | Location/County |
+|-----------------------------------------------------------------|--------------------|-----------------|
+| [Kenya AI](https://kenya.ai/)                                   |                    | Nairobi         |
+| [Computer Revolution Tech Group](https://www.cragroup.co.ke/)   |                     
 
 
-### Blockcahin Technology
+# Blockcahin Technology
 
 | Company's Website                                               | Comapany Type       |Location/County      |
 |-----------------------------------------------------------------|---------------------|---------------------|
@@ -41,7 +39,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 
 
-### Cloud Computing
+# Cloud Computing
 
 | Company's Website                                         | Company Type         | Location/County  |
 |-----------------------------------------------------------|----------------------|------------------|
@@ -52,7 +50,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 
 
-### Computer Networking
+# Computer Networking
 
 | Company's Website                                        |  Company Type      |Location/County  |
 |----------------------------------------------------------|--------------------|-----------------|
@@ -66,7 +64,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [VHost Limited](https://vhost.bz/)                       |
 
 
-### Cyber Security
+# Cyber Security
 
 | Company's Website                                                           | Company Type     | Location/County   |
 |-----------------------------------------------------------------------------|------------------|-------------------|
@@ -83,7 +81,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 
 
-### Graphic Designs
+# Graphic Designs
 
 | Company's Website                                             |   Company Type     | Location/County  |
 |---------------------------------------------------------------|--------------------|------------------|
@@ -111,7 +109,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [TV47 Digital](https://www.tv47.digital/)                   |                  | Nairobi         |
 
 
-### Online courses & Certifications
+# Online courses & Certifications
 
 | Company's Website                                                 |   Company Type   | Location/County  |
 |-------------------------------------------------------------------|------------------|------------------|
@@ -123,7 +121,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [Zindua School](https://zinduaschool.com)                         |                  | Nairobi          |
 
 
-### Software Development
+# Software Development
 
 | Company's Website                                                    |   Company Type              | Location/County     | 
 |----------------------------------------------------------------------|-----------------------------|---------------------|
@@ -157,7 +155,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 
 
-### Tech Hubs
+# Tech Hubs
 
 | Company's Website                                                                |  Company Type     | Location/County  |
 |----------------------------------------------------------------------------------|-------------------|------------------|
@@ -173,7 +171,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [SwahilipotHub](https://www.swahilipothub.co.ke)                                 |  Startup          |   Mombasa        |
 
 
-## Telecommunication services
+# Telecommunication services
 
 | Company's Website                                                                |  Company Type     | Location/County  |
 |----------------------------------------------------------------------------------|-------------------|------------------|
@@ -184,7 +182,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [ZUKU Internet](https://zuku.co.ke/triple-play/)                                 |                   | Nairobi          |
 
 
-### Government Initiatives Projects
+# Government Initiatives Projects
 
 The following is a list of Government initiated Tech projects in Kenya
 
