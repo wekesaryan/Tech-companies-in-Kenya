@@ -1,4 +1,4 @@
-# List-of-Tech-Companies-in-Kenya
+9# List-of-Tech-Companies-in-Kenya
 This repository aims to provide a valuable resource for anyone interested in exploring the tech landscape in Kenya, whether for research, internship, business opportunities, or networking. We hope you find this list helpful and informative!
 
 
@@ -136,7 +136,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [SoftwaresKe](https://www.softwareske.com/)                          |
 | [Sawasawa Solutions](https://sawasawa.com/)                          |                     |
 | [Smartcode Technologies](https://www.smartcode.co.ke/)               |
-| [Space Ya Tech](https://www.spaceyatech.com/).    |
+| [Space Ya Tech](https://www.spaceyatech.com/)    | Open-source    |        | 
 | [Synacor](https://www.synacor.co.ke/)                                |
 | [The Jitu ](https://thejitu.com/)                                    |                     |  Nyeri              | 
 | [Webmetro Website Designers](https://webmetro.co.ke/)                |                     |                     |
@@ -184,7 +184,7 @@ We welcome contributions from everyone! Check out the [Contributors](https://git
 
 ---------------------------
 
-## Closing Note
+
 Thank you for visiting our repository! We hope you found this list of tech companies in Kenya informative and helpful. If you have any questions, concerns, or suggestions, please don't hesitate to reach out to us.
 
 We welcome contributions from everyone, and we're always looking for ways to improve and expand this repository. If you're interested in contributing, please check out our Contributors section for more information.
