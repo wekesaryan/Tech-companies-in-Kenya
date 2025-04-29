@@ -159,7 +159,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 
 
-# Tech Hubs and startups {#Tech-Hubs-and-startups}
+# Tech Hubs and startups {#tech-hubs-and-startups}
 
 | Company's Portfolio                                                              |  Company Type     | Location/County  |
 |----------------------------------------------------------------------------------|-------------------|------------------|
@@ -209,28 +209,30 @@ The following is a list of Government initiated Tech projects in Kenya
 ---------------------------------
 
 # Bonus Takeaway
-For thosse with technology-based skills,Youths, developers, project start-ups looking for investors to fund their ideas
+
+For thosse with technology-based skills,Youths, developers, project start-ups looking for investors to fund their ideas or projects and turn them into world class working projects.
+In reality, a product's value is moot if it's not being utilized by its target audience.
 
 ## 1. Leverage Statup & Investment Programs
 - [Ajira Digital](http://ajiradigital.go.ke/)
 - [Kenya Innovation Agency(KENIA)](https://kenia.go.ke/)
-- Kenya Youth Employment and Opportunities Project (KYEOP)
+- [Kenya Youth Employment and Opportunities Project (KYEOP)](https://kyeop.go.ke/)
 - [Nairobi Securities Exchange(NSE)](https://www.nse.co.ke)
 
 
 ## 2. Join Tech & Startup Communities
 - [iHub Nairobi](https://ihub.co.ke/)
-- Nailab
+- [KICTANET](https://www.kictanet.or.ke/)
 - [Swahili Pot](https://www.swahilipothub.co.ke)
 
-[More info](#Tech-Hubs-and-startups) 
+[More info](#tech-hubs-and-startups) 
 
 
 ## 3. Participate in Pitch Competitions
 - [Africa's Bussiness Heros](https://www.africabusinessheroes.org/en/)
 - [MIT Solve Challenge](https://solve.mit.edu/challenges)
 - [Startinev](https://startinev.com/)
-- [Techstars Startup Weekend Nairobi](https://www.techstars.com/)
+- [Techstars Startup Weekend](https://www.techstars.com/)
 
 
 ## 4. Online Platofrms
