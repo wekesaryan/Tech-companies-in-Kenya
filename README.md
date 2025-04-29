@@ -22,7 +22,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 # Artificial Intelligence
 
-| Company's Website                                                                 | Company Type       | Location/County |
+| Company's Portfolio                                                               | Company Type       | Location/County |
 |-----------------------------------------------------------------------------------|--------------------|-----------------|
 | [Computer Revolution Tech Group](https://www.cragroup.co.ke/)                     |                    
 | [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)    | Multinational               | Nairobi             | 
@@ -31,7 +31,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 # Blockcahin Technology
 
-| Company's Website                                               | Comapany Type       |Location/County      |
+| Company's Portfolio                                             | Comapany Type       |Location/County      |
 |-----------------------------------------------------------------|---------------------|---------------------|
 | [Hyperlink InfoSystem](https://www.hyperlinkinfosystem.com/)    |                     | Nairobi             |
 | [Blockchain Technologies(K) ltd](https://blockchaintech.co.ke/) |                     | Nairobi             |
@@ -42,7 +42,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 # Cloud Computing
 
-| Company's Website                                         | Company Type         | Location/County  |
+| Company's Portfolio                                       | Company Type         | Location/County  |
 |-----------------------------------------------------------|----------------------|------------------|
 | [AWS User Group Kenya](https://awsusergroupkenya.co.ke/)  |  Community=led       | Nairobi          |
 | [Cloud Backup](https://cloudbackup.co.ke/)                |                      | Nairobi          |
@@ -54,7 +54,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 # Computer Networking
 
-| Company's Website                                        |  Company Type      |Location/County  |
+| Company's Portfolio                                      |  Company Type      |Location/County  |
 |----------------------------------------------------------|--------------------|-----------------|
 | [Jammi Telecommunication](https://jtl.co.ke/)            |
 | [KICTANet](https://www.kictanet.or.ke/)                  | Multi-stalkholder  | Nairobi         |
@@ -68,7 +68,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 # Cyber Security
 
-| Company's Website                                                           | Company Type     | Location/County   |
+| Company's Portfolio                                                         | Company Type     | Location/County   |
 |-----------------------------------------------------------------------------|------------------|-------------------|
 | [AfricaHackOn](https://africahackon.com/)                                   | Multinational                        |
 | [CIO Africa](https://cioafrica.co/)                                         | Multinational    | Nairobi           |
@@ -85,7 +85,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 # Graphic Designs
 
-| Company's Website                                             |   Company Type     | Location/County  |
+| Company's Portfolio                                           |   Company Type     | Location/County  |
 |---------------------------------------------------------------|--------------------|------------------|
 | [Creative Kigen](https://creativekigen.com/)                  |                    |                  |
 | [Crystal Tech](https://crystaltech.co.ke/)                    |                    | Nairobi          |
@@ -97,7 +97,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 ### Multimedia and films
 
-| Company's Website                                           |   Company Type   |Location/County  |
+| Company's Portfolio                                         |   Company Type   |Location/County  |
 |-------------------------------------------------------------|------------------|-----------------|
 | [Capuchin TV](https://capuchintv.co.ke/)                    |                  | Nairobi         |
 | [K24 Digital](https://k24.digital/)                         | Private          | Nairobi         |
@@ -113,7 +113,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 # Online courses & Certifications
 
-| Company's Website                                                 |   Company Type   | Location/County  |
+| Company's Portfolio                                               |   Company Type   | Location/County  |
 |-------------------------------------------------------------------|------------------|------------------|
 | [ALX Africa](https://www.alxafrica.com/programmes/)               |  Multinational   | Nairobi          |
 | [Brait Academy](https://learn.braitacademy.com/)                  |
@@ -125,7 +125,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 # Software Development
 
-| Company's Website                                                    |   Company Type              | Location/County     | 
+| Company's Portfolio                                                  |   Company Type              | Location/County     | 
 |----------------------------------------------------------------------|-----------------------------|---------------------|
 | [AfricaCodeWeek](https://africacodeweek.org/)                        |                             | Nairobi             |     
 | [Africa is Talking](https://community.africastalking.com/)           |   Startup                   | Nairobi             |      
@@ -159,9 +159,9 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 
 
-# Tech Hubs
+# Tech Hubs and startups {#Tech-Hubs-and-startups}
 
-| Company's Website                                                                |  Company Type     | Location/County  |
+| Company's Portfolio                                                              |  Company Type     | Location/County  |
 |----------------------------------------------------------------------------------|-------------------|------------------|
 | [EldoHub](https://eldohub.co.ke/)                                                |                   | Eldoret          |
 | [Chandaria Business Innovation & Incubation Centre](https://www.ku.ac.ke/iiuil/) |                   | Nairobi          |
@@ -177,7 +177,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 # Telecommunication services
 
-| Company's Website                                                                |  Company Type     | Location/County  |
+| Company's Portfolio                                                              |  Company Type     | Location/County  |
 |----------------------------------------------------------------------------------|-------------------|------------------|
 | [African Telecommunication Union](https://atuuat.africa/)                        |                   | Nairobi          |
 | [Safaricom Bussiness](https://www.safaricom.co.ke/)                              |                   | Country Wide     |
@@ -202,7 +202,52 @@ The following is a list of Government initiated Tech projects in Kenya
 | [NC4](https://nc4.go.ke/) | The National Computer and Cybercrimes Coordination Committee (NC4) is mandated to coordinate Cybersecurity matters in Kenya. <br> Established by the Computer Misuse and cybercrimes Act No. 5 2018 (CMCA ) to coordinate national cybersecurity matters to enable timely and effective detection, prohibition, prevention , response, investigation and prosecution of computer misuse and cybercrimes; and facilitate international co-operation in dealing with computer and cybercrime matters in Kenya |
 | [KonzaTechnopolis](https://konza.go.ke/) |The Government of Kenya established the Konza Technopolis Development Authority (KoTDA) as a special purpose entity to facilitate the development of Konza. <br> The mission of KoTDA is to ensure that Konza grows into a sustainable, world-class technology hub and a major economic driver for the nation, with avibrant mix of businesses, workers, residents, and urba​​n amenities. <br> KoTDA is responsible for overseeing the development and management of Konza, and for establishing a strong value proposition for businesses to locate and expand in Konza. KoTDA’s Board of Directors was appointed in 2013. |        
 | [Smart Academy](https://www.smartacademy.go.ke/) |Smart Academy is the ICT Authority’s Excellent Training School specializing in ICT and ICT Leadership and Governance training. <br> Delivers ICT technologies training to Public sector, ICT Professional’s and Citizens in collaboration with ICT Technology partners and Academia. <br> Equip Citizens with Digital Skills and digital career with Industry-relevant tech skills. <br> Smart Academy is working to support Kenya’s vision to become a Smart Nation by 2030. <br> As the world’s economy is aggressively shifting towards technology-driven industries, individuals and citizens have difficulties keeping up with speed in ICT skills requirement, and this is where Smart Academy comes in to collaborate with Tech partners to offer the right skills set for Citizens to adopt with the dynamic Digital Ecosystem. |
- 
+
+
+
+
+---------------------------------
+
+# Bonus Takeaway
+For thosse with technology-based skills,Youths, developers, project start-ups looking for investors to fund their ideas
+
+## 1. Leverage Statup & Investment Programs
+- [Ajira Digital](http://ajiradigital.go.ke/)
+- [Kenya Innovation Agency(KENIA)](https://kenia.go.ke/)
+- Kenya Youth Employment and Opportunities Project (KYEOP)
+- [Nairobi Securities Exchange(NSE)](https://www.nse.co.ke)
+
+
+## 2. Join Tech & Startup Communities
+- [iHub Nairobi](https://ihub.co.ke/)
+- Nailab
+- [Swahili Pot](https://www.swahilipothub.co.ke)
+
+[More info](#Tech-Hubs-and-startups) 
+
+
+## 3. Participate in Pitch Competitions
+- [Africa's Bussiness Heros](https://www.africabusinessheroes.org/en/)
+- [MIT Solve Challenge](https://solve.mit.edu/challenges)
+- [Startinev](https://startinev.com/)
+- [Techstars Startup Weekend Nairobi](https://www.techstars.com/)
+
+
+## 4. Online Platofrms
+- [LinkedIn](https;//linkein.com)
+- [Indeed](https://www.indeed.com)
+- [VC4Africa](https://vc4a.com/)
+
+
+## 5. Build a strong Portfolio
+- [Github](https://github.com)
+- Personal website
+- [Tech Blogs i.e Medium](https://medium.com)
+
+  
+
+
+
 ----------------------------------
 
 # Disclaimer 
