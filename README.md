@@ -159,7 +159,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 
 
-# Tech Hubs and startups {#tech-hubs-and-startups}
+# Tech Hubs and startups
 
 | Company's Portfolio                                                              |  Company Type     | Location/County  |
 |----------------------------------------------------------------------------------|-------------------|------------------|
@@ -225,7 +225,7 @@ In reality, a product's value is moot if it's not being utilized by its target a
 - [KICTANET](https://www.kictanet.or.ke/)
 - [Swahili Pot](https://www.swahilipothub.co.ke)
 
-[More info](#tech-hubs-and-startups) 
+[More info](#tech-hubs-and-startups)  
 
 
 ## 3. Participate in Pitch Competitions
