@@ -73,6 +73,7 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | [AfricaHackOn](https://africahackon.com/)                                   | Multinational                        |
 | [CIO Africa](https://cioafrica.co/)                                         | Multinational    | Nairobi           |
 | [Crystal Tech](https://crystaltech.co.ke/)                                  |                  | Nairobi           |
+| [CyberGuard Africa](https://cyberguardafrica.com/)                          |  Private         | Nairobi           |
 | [East Africa Data Handlers](https://eadatahandlers.co.ke/)                  | Multinational    |
 | [Frepers PTaaS Cyber security](https://frepers.co.ke/)                      |
 | [Kenya Cyber Security and Forensics Association](https://www.kcsfa.co.ke/)  |                  | Nairobi          |
