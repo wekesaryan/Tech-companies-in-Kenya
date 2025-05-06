@@ -7,14 +7,6 @@ Kenya's tech ecosystem has rapidly evolved, positioning itself as a hub for inno
 ## Key Sectors and Innovations
 The Kenyan startup landscape is not just thriving in quantity but also in quality, with many startups achieving international recognition and investment. Sectors like agri-tech, health-tech, and ed-tech are emerging alongside the established fintech sector1. The use of mobile money platforms like M-Pesa has revolutionized financial transactions in the country.
 
-## Government Initiatives and Support
-The Kenyan government has played a significant role in fostering this tech growth. Initiatives like Konza Technopolis and support for ICT innovation hubs have provided a conducive environment for tech startups and entrepreneurs. Policies such as tax incentives for tech startups and investments in digital infrastructure have been pivotal in creating an environment where technology and innovation can flourish.
-
-## Education and Talent Development
-Kenya's focus on education and talent development has been crucial in building a skilled workforce to drive the tech ecosystem. Universities and colleges are increasingly offering courses in IT and related fields, aligning with industry needs1. Collaboration between academia and industry ensures a steady pipeline of skilled professionals.
-
-## Impact on Other Sectors
-The tech boom in Kenya has positively impacted other sectors, including finance, agriculture, and healthcare. Digital platforms are revolutionizing how Kenyans access services, from e-commerce and online banking to telemedicine and digital education.
 
 
 ---------------
@@ -114,6 +106,10 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 # Online courses & Certifications
 
+## Education and Talent Development
+Kenya's focus on education and talent development has been crucial in building a skilled workforce to drive the tech ecosystem. Universities and colleges are increasingly offering courses in IT and related fields, aligning with industry needs1. Collaboration between academia and industry ensures a steady pipeline of skilled professionals.
+
+
 | Company's Portfolio                                               |   Company Type   | Location/County  |
 |-------------------------------------------------------------------|------------------|------------------|
 | [ALX Africa](https://www.alxafrica.com/programmes/)               |  Multinational   | Nairobi          |
@@ -189,6 +185,9 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 
 # Government Initiatives Projects
 
+## Government Initiatives and Support
+The Kenyan government has played a significant role in fostering this tech growth. Initiatives like Konza Technopolis and support for ICT innovation hubs have provided a conducive environment for tech startups and entrepreneurs. Policies such as tax incentives for tech startups and investments in digital infrastructure have been pivotal in creating an environment where technology and innovation can flourish.
+
 The following is a list of Government initiated Tech projects in Kenya
 
 
@@ -248,6 +247,13 @@ In reality, a product's value is moot if it's not being utilized by its target a
 - [Tech Blogs i.e Medium](https://medium.com)
 
   
+
+
+----------------------
+
+
+## Impact on Other Sectors
+The tech boom in Kenya has positively impacted other sectors, including finance, agriculture, and healthcare. Digital platforms are revolutionizing how Kenyans access services, from e-commerce and online banking to telemedicine and digital education.
 
 
 
