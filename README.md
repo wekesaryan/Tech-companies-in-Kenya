@@ -25,45 +25,45 @@ The tech boom in Kenya has positively impacted other sectors, including finance,
 | Company's Portfolio                                                               | Company Type       | Location/County |
 |-----------------------------------------------------------------------------------|--------------------|-----------------|
 | [Computer Revolution Tech Group](https://www.cragroup.co.ke/)                     |                    
-| [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)    | Multinational               | Nairobi             | 
+| [Google Developer Groups](https://gdg.community.dev/gdg-nairobi/)                 | Multinational      | Nairobi         | 
 | [Kenya AI](https://kenya.ai/)                                                     |                    | Nairobi         | 
 
 
-# Blockcahin Technology
+# Blockchain Technology
 
-| Company's Portfolio                                             | Comapany Type       |Location/County      |
-|-----------------------------------------------------------------|---------------------|---------------------|
-| [Hyperlink InfoSystem](https://www.hyperlinkinfosystem.com/)    |                     | Nairobi             |
-| [Blockchain Technologies(K) ltd](https://blockchaintech.co.ke/) |                     | Nairobi             |
-| [ClixPesa](https://clixpesa.com/)                               |                     | Nairobi             |
-| [Mobirevo](https://mobirevo.com/)                               |                     | Nairobi Ke,NIgeria  |
+| Company's Portfolio                                                   | Comapany Type       |Location/County      |
+|-----------------------------------------------------------------------|---------------------|---------------------|
+| [Hyperlink InfoSystem](https://www.hyperlinkinfosystem.com/)          |                     | Nairobi             |
+| [Blockchain Technologies(K) ltd](https://blockchaintech.co.ke/)       |                     | Nairobi             |
+| [ClixPesa](https://clixpesa.com/)                                     |                     | Nairobi             |
+| [Mobirevo](https://mobirevo.com/)                                     |                     | Nairobi Ke,NIgeria  |
 
 
 
 # Cloud Computing
 
-| Company's Portfolio                                       | Company Type         | Location/County  |
-|-----------------------------------------------------------|----------------------|------------------|
-| [AWS User Group Kenya](https://awsusergroupkenya.co.ke/)  |  Community=led       | Nairobi          |
-| [Cloud Backup](https://cloudbackup.co.ke/)                |                      | Nairobi          |
-| [ManageIT Africa](https://manageitafrica.com/)            |
-| [Safaricom Bussiness](https://www.safaricom.co.ke/)       |   Private            |   Nairobi        |
+| Company's Portfolio                                                  | Company Type         | Location/County  |
+|----------------------------------------------------------------------|----------------------|------------------|
+| [AWS User Group Kenya](https://awsusergroupkenya.co.ke/)             |  Community=led       | Nairobi          |
+| [Cloud Backup](https://cloudbackup.co.ke/)                           |                      | Nairobi          |
+| [ManageIT Africa](https://manageitafrica.com/)                       |
+| [Safaricom Bussiness](https://www.safaricom.co.ke/)                  |   Private            |   Nairobi        |
 
 
 
 
 # Computer Networking
 
-| Company's Portfolio                                      |  Company Type      |Location/County  |
-|----------------------------------------------------------|--------------------|-----------------|
-| [Jammi Telecommunication](https://jtl.co.ke/)            |
-| [KICTANet](https://www.kictanet.or.ke/)                  | Multi-stalkholder  | Nairobi         |
-| [Poa! Internet](https://poa.co.ke/)                      | Private            | Nairobi
-| [Safaricom Bussiness](https://www.safaricom.co.ke/)      |                    | Country Wide    |
-| [Surfnet Solutions](https://surfnetsolution.com/)        |
-| [Telcom Kenya](https://telkom.co.ke/)                    |
-| [ZUKU Internet](https://zuku.co.ke/triple-play/)         | 
-| [VHost Limited](https://vhost.bz/)                       |
+| Company's Portfolio                                                  |  Company Type      |Location/County  |
+|----------------------------------------------------------------------|--------------------|-----------------|
+| [Jammi Telecommunication](https://jtl.co.ke/)                        |
+| [KICTANet](https://www.kictanet.or.ke/)                              | Multi-stalkholder  | Nairobi         |
+| [Poa! Internet](https://poa.co.ke/)                                  | Private            | Nairobi
+| [Safaricom Bussiness](https://www.safaricom.co.ke/)                  |                    | Country Wide    |
+| [Surfnet Solutions](https://surfnetsolution.com/)                    |
+| [Telcom Kenya](https://telkom.co.ke/)                                |
+| [ZUKU Internet](https://zuku.co.ke/triple-play/)                     | 
+| [VHost Limited](https://vhost.bz/)                                   |
 
 
 # Cyber Security
