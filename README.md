@@ -66,6 +66,7 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 | [Besides Nairobi](https://bsidesnairobi.ke/)                                   | Non-profit, community-driven|                   |
 | [CIO Africa](https://cioafrica.co/)                                            | Multinational               | Nairobi           |
 | [Crystal Tech](https://crystaltech.co.ke/)                                     |                             | Nairobi           |
+| [CTF Room](https://www.ctfroom.com/)                                           |                             | Nairobi           |
 | [CyberGuard Africa](https://cyberguardafrica.com/)                             |  Private                    | Nairobi           |
 | [East Africa Data Handlers](https://eadatahandlers.co.ke/)                     | Multinational               |
 | [Frepers PTaaS Cyber security](https://frepers.co.ke/)                         |
@@ -91,18 +92,18 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 
 ### Multimedia and films
 
-| Company's Portfolio                                         |   Company Type   |Location/County  |
-|-------------------------------------------------------------|------------------|-----------------|
-| [Capuchin TV](https://capuchintv.co.ke/)                    |                  | Nairobi         |
-| [K24 Digital](https://k24.digital/)                         | Private          | Nairobi         |
-| [Kenya Broadcasting Cooperation(KBC)](https://kbctv.co.ke/) |  Public          | Nairobi         |
-| [Kenya Moja](https://www.kenyamoja.com/)                    | Private          |                 |
-| [Kenyatta University TV(KUTV)](https://kutv.co.ke/)         |                  | Nairobi         |
-| [Nation Media Group PLC](https://www.nationmedia.com/)      | Private          | Nairobi         |
-| [Royal Media](https://royalmedia.co.ke/)                    | Private          | Nairobi         |
-| [Standard Media group](https://www.standardmedia.co.ke/)    |  Private         | Nairobi         |
-| [Tandao Media Group](https://tandaomedia.co.ke/)            |                  |    
-| [TV47 Digital](https://www.tv47.digital/)                   |                  | Nairobi         |
+| Company's Portfolio                                                    |   Company Type   |Location/County  |
+|------------------------------------------------------------------------|------------------|-----------------|
+| [Capuchin TV](https://capuchintv.co.ke/)                               |                  | Nairobi         |
+| [K24 Digital](https://k24.digital/)                                    | Private          | Nairobi         |
+| [Kenya Broadcasting Cooperation(KBC)](https://kbctv.co.ke/)            |  Public          | Nairobi         |
+| [Kenya Moja](https://www.kenyamoja.com/)                               | Private          |                 |
+| [Kenyatta University TV(KUTV)](https://kutv.co.ke/)                    |                  | Nairobi         |
+| [Nation Media Group PLC](https://www.nationmedia.com/)                 | Private          | Nairobi         |
+| [Royal Media](https://royalmedia.co.ke/)                               | Private          | Nairobi         |
+| [Standard Media group](https://www.standardmedia.co.ke/)               |  Private         | Nairobi         |
+| [Tandao Media Group](https://tandaomedia.co.ke/)                       |                  |    
+| [TV47 Digital](https://www.tv47.digital/)                              |                  | Nairobi         |
 
 
 # Online courses & Certifications
@@ -111,14 +112,15 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 Kenya's focus on education and talent development has been crucial in building a skilled workforce to drive the tech ecosystem. Universities and colleges are increasingly offering courses in IT and related fields, aligning with industry needs1. Collaboration between academia and industry ensures a steady pipeline of skilled professionals.
 
 
-| Company's Portfolio                                               |   Company Type   | Location/County  |
-|-------------------------------------------------------------------|------------------|------------------|
-| [ALX Africa](https://www.alxafrica.com/programmes/)               |  Multinational   | Nairobi          |
-| [Brait Academy](https://learn.braitacademy.com/)                  |
-| [HackerSploit Academy](https://hackersploit.academy/)             |                  | Nairobi          |
-| [Moringa School](https://moringaschool.com/)                      |
-| [PowerLearn Academy](https://academy.powerlearnprojectafrica.org/)|                  | Nairobi          |
-| [Zindua School](https://zinduaschool.com)                         |                  | Nairobi          |
+| Company's Portfolio                                               |   Company Type     | Location/County  |
+|-------------------------------------------------------------------|--------------------|------------------|
+| [ALX Africa](https://www.alxafrica.com/programmes/)               |  Multinational     | Nairobi          |
+| [Brait Academy](https://learn.braitacademy.com/)                  |                    |
+| [Cyber Shujaa](https://cybershujaa.co.ke/)                        | Multi-stalkholder  | Nairobi          |
+| [HackerSploit Academy](https://hackersploit.academy/)             |                    | Nairobi          |
+| [Moringa School](https://moringaschool.com/)                      |                    |
+| [PowerLearn Academy](https://academy.powerlearnprojectafrica.org/)|                    | Nairobi          |
+| [Zindua School](https://zinduaschool.com)                         |                    | Nairobi          |
 
 
 # Software Development
