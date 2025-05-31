@@ -60,18 +60,19 @@ The Kenyan startup landscape is not just thriving in quantity but also in qualit
 
 # Cyber Security
 
-| Company's Portfolio                                                         | Company Type     | Location/County   |
-|-----------------------------------------------------------------------------|------------------|-------------------|
-| [AfricaHackOn](https://africahackon.com/)                                   | Multinational                        |
-| [CIO Africa](https://cioafrica.co/)                                         | Multinational    | Nairobi           |
-| [Crystal Tech](https://crystaltech.co.ke/)                                  |                  | Nairobi           |
-| [CyberGuard Africa](https://cyberguardafrica.com/)                          |  Private         | Nairobi           |
-| [East Africa Data Handlers](https://eadatahandlers.co.ke/)                  | Multinational    |
-| [Frepers PTaaS Cyber security](https://frepers.co.ke/)                      |
-| [Kenya Cyber Security and Forensics Association](https://www.kcsfa.co.ke/)  |                  | Nairobi          |
-| [HackerSploit](https://hackersploit.org/)                                   |                  | Nairobi          |
-| [Serianu](https://www.serianu.com/)                                         | Multinational    | Nairobi          |
-| [wHTa Networks](https://whtanetworks.com/)                                  |
+| Company's Portfolio                                                            | Company Type                | Location/County   |
+|--------------------------------------------------------------------------------|-----------------------------|-------------------|
+| [AfricaHackOn](https://africahackon.com/)                                      | Multinational               |  Nairobi          |
+| [Besides Nairobi](https://bsidesnairobi.ke/)                                   | Non-profit, community-driven|                   |
+| [CIO Africa](https://cioafrica.co/)                                            | Multinational               | Nairobi           |
+| [Crystal Tech](https://crystaltech.co.ke/)                                     |                             | Nairobi           |
+| [CyberGuard Africa](https://cyberguardafrica.com/)                             |  Private                    | Nairobi           |
+| [East Africa Data Handlers](https://eadatahandlers.co.ke/)                     | Multinational               |
+| [Frepers PTaaS Cyber security](https://frepers.co.ke/)                         |
+| [Kenya Cyber Security and Forensics Association](https://www.kcsfa.co.ke/)     |                             | Nairobi          |
+| [HackerSploit](https://hackersploit.org/)                                      |                             | Nairobi          |
+| [Serianu](https://www.serianu.com/)                                            | Multinational               | Nairobi          |
+| [wHTa Networks](https://whtanetworks.com/)                                     |
 
 
 
